@@ -1,0 +1,22 @@
+state={
+	id=777
+	name="STATE_777"
+	provinces={
+		3488 
+	}
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 7
+			arms_factory = 2
+			industrial_complex = 4
+
+		}
+		add_core_of = BEL
+		add_core_of = GER
+
+	}
+	manpower=348293
+	buildings_max_level_factor=1.000
+	state_category=city
+}

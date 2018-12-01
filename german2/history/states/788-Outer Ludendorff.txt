@@ -1,0 +1,25 @@
+state={
+	id=788
+	name="STATE_788"
+	provinces={
+		79 6174 
+	}
+	history={
+		owner = BLR
+		victory_points = {
+			7661 1 
+		}
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 1
+			air_base = 1
+
+		}
+		add_core_of = SOV
+		add_core_of = BLR
+	
+	}
+	manpower=881049
+	buildings_max_level_factor=1.000
+	state_category=city
+}

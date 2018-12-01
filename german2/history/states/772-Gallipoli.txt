@@ -1,0 +1,21 @@
+state={
+	id=772
+	name="STATE_772"
+	provinces={
+		849 8435 
+	}
+	history={
+		owner = ITA
+		buildings = {
+			infrastructure = 7
+			industrial_complex = 1
+
+		}
+		add_core_of = TUR
+		add_core_of = ITA
+
+	}
+	manpower=158690
+	buildings_max_level_factor=1.000
+	state_category=town
+}

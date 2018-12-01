@@ -1,0 +1,20 @@
+state={
+	id=791
+	name="STATE_791"
+	manpower = 215104
+	state_category = rural
+	
+	history={
+		owner = KAU
+		buildings = {
+			infrastructure = 4
+		}
+		add_core_of = SOV
+		add_core_of = KAU
+	}
+
+	provinces={
+		3487 3461 9440 11579 9735 11706 6758 6760 3726 
+	}
+	
+}

@@ -1,0 +1,19 @@
+state={
+	id=786
+	name="STATE_786"
+	provinces={
+		1620 4330 4596 7645 10204 12260 12288 
+	}
+	history={
+		owner = JAP
+		buildings = {
+			infrastructure = 4
+			industrial_complex = 2
+
+		}
+		add_core_of = CAM
+	}
+	manpower=594038
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,19 @@
+state={
+	id=784
+	name="STATE_784"
+	provinces={
+		1909 4957 5039 8008 12802 12858 
+	}
+	history={
+		owner = GER
+		buildings = {
+			infrastructure = 3
+			industrial_complex = 2
+
+		}
+		add_core_of = GER
+	}
+	manpower=2950483
+	buildings_max_level_factor=1.000
+	state_category=town
+}

@@ -1,0 +1,25 @@
+
+state={
+	id=236
+	name="STATE_236"
+	manpower = 447208
+	
+	state_category = rural
+
+	history={
+		owner = RTU
+		victory_points = {
+			9753 3 
+		}
+		buildings = {
+			infrastructure = 3
+			air_base = 1
+		}
+		add_core_of = SOV
+		add_core_of = RTU
+	}
+
+	provinces={
+		618 757 3435 6486 6516 6620 9455 9592 9753 11429 11736 
+	}
+}

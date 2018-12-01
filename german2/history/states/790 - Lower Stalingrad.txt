@@ -1,0 +1,21 @@
+state={
+	id=790
+	name="STATE_790"
+	provinces={
+		6503 9459 9442 11447 9474 498 6527
+	}
+	
+	history={
+		owner = KAU
+		buildings = {
+			infrastructure = 5
+			industrial_complex = 4
+		}
+		add_core_of = SOV
+		add_core_of = KAU
+
+	}
+	manpower=593850
+	buildings_max_level_factor=1.000
+	state_category=town
+}
